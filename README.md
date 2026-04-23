@@ -14,7 +14,13 @@ End-to-end SQL project analyzing e-commerce data to extract business insights.
 - KPI Dashboard
 
 ## 🛠 Tools Used
-- SQL (PostgreSQL / MySQL)
+- SQL (PostgreSQL)
+
+## 📌 Key Insights
+- Revenue shows a consistent growth trend over time
+- Top customers contribute a large portion of total revenue (Pareto effect)
+- Late deliveries negatively impact customer review scores
+- A small number of sellers generate majority of sales
 
 ## 📌 Key Focus
 - Revenue analysis
